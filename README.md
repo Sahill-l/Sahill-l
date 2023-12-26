@@ -23,7 +23,7 @@ Here are some of the projects I'm proud of:
 
 - 🌐 [Project 1](https://github.com/Sahill-l/Responsive-Frontend-Template.git): A responsive Frontend Design just like a portfolio.
 - 🌐 [Project 2](https://github.com/Sahill-l/Filter-Gallery.git): An image filter Gallery.
-- 🌐 [Project 3](https://github.com/Sahill-l/Django-crud.git): An image filter Gallery.
+- 🌐 [Project 3](https://github.com/Sahill-l/Django-crud.git): Django CRUD operation Project
 
 ## Let's Connect
 
