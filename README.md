@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm passionate about building robust and scalable 
 
 Here are some of the projects I'm proud of:
 
-- 🌐 [Project 1](https://github.com/Sahill-l/Responsive-Frontend-Template.git): A responsive Frontend Design just like a portfolio.
+- 🌐 [Project 1](https://github.com/Sahill-l/Weather-app.git): Search Weather of anywhere by using this frontend project.
 - 🌐 [Project 2](https://github.com/Sahill-l/Filter-Gallery.git): An image filter Gallery.
-- 🌐 [Project 3](https://github.com/Sahill-l/Django-crud.git): Django CRUD operation Project
+- 🌐 [Project 3](https://github.com/Sahill-l/Django-crud.git): Django CRUD operation Project.
 
 ## Let's Connect
 
