@@ -22,10 +22,6 @@ Welcome to my GitHub profile! I'm passionate about building robust and scalable 
 Here are some of the projects I'm proud of:
 
 - 🌐 [Project 1](https://github.com/Sahill-l/Responsive-Frontend-Template.git): A responsive Frontend Design just like a portfolio.
-- 🚀 [Project 2](link-to-repo): Brief description
-- 🌈 [Project 3](link-to-repo): Brief description
-
-You can explore more on my [Projects](https://github.com/yourusername?tab=repositories) page.
 
 ## Let's Connect
 
