@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm passionate about building robust and scalable 
 ## Tech Stack
 
 - 💻 **Languages:** Python, JavaScript (Node.js, React)
-- 🌐 **Web Technologies:** HTML, CSS
+- 🌐 **Web Technologies:** HTML, CSS , JavaScript
 - 🛢️ **Databases:** MySQL, MongoDB
 - ⚙️ **Backend:** Django, Express.js
 - 🌈 **Frontend:** React, Redux
